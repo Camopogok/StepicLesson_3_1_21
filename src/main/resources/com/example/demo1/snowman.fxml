@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.shape.*?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="446.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Polygon fill="WHITE" layoutX="245.0" layoutY="134.0" nodeOrientation="RIGHT_TO_LEFT" points="25.0, 11.0, 25.0, 25.0, 50.0, 25.0, 139.0, 96.0, 148.0, 88.0, 59.0, 17.0, 59.0, -13.0, 50.0, -21.0, 50.0, 4.0, 36.0, -13.0, 25.0, -5.0, 44.0, 11.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="2.0" />
+      <Circle fill="WHITE" layoutX="227.0" layoutY="336.0" radius="100.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="2.0" />
+      <Circle fill="WHITE" layoutX="227.0" layoutY="231.0" radius="79.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="2.0" />
+      <Circle fill="WHITE" layoutX="227.0" layoutY="143.0" radius="56.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="2.0" />
+      <Ellipse fill="WHITE" layoutX="227.0" layoutY="95.0" radiusX="65.0" radiusY="16.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="2.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="57.0" layoutX="189.0" layoutY="36.0" stroke="BLACK" strokeLineCap="ROUND" strokeLineJoin="ROUND" strokeType="OUTSIDE" strokeWidth="2.0" style="-fx-arc-height: 10; -fx-arc-width: 10;" width="74.0" />
+      <Line endX="70.0" endY="-0.5" layoutX="195.0" layoutY="76.0" startX="-6.5" strokeWidth="2.0" />
+      <Circle fill="WHITE" layoutX="218.0" layoutY="135.0" radius="8.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fill="WHITE" layoutX="258.0" layoutY="135.0" radius="8.0" stroke="BLACK" strokeType="INSIDE" />
+      <Polygon fill="WHITE" layoutX="395.0" layoutY="171.0" points="-154.0, -19.0, -154.0, -5.0, -64.0, -19.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fill="WHITE" layoutX="258.0" layoutY="176.0" radius="5.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fill="WHITE" layoutX="241.0" layoutY="181.0" radius="5.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fill="WHITE" layoutX="227.0" layoutY="181.0" radius="5.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fill="WHITE" layoutX="210.0" layoutY="176.0" radius="5.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fill="WHITE" layoutX="253.0" layoutY="278.0" radius="5.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fill="WHITE" layoutX="258.0" layoutY="247.0" radius="5.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fill="WHITE" layoutX="246.0" layoutY="218.0" radius="5.0" stroke="BLACK" strokeType="INSIDE" />
+      <Polygon fill="WHITE" layoutX="31.0" layoutY="129.0" points="25.0, 11.0, 25.0, 25.0, 50.0, 25.0, 139.0, 96.0, 148.0, 88.0, 59.0, 17.0, 59.0, -13.0, 50.0, -21.0, 50.0, 4.0, 36.0, -13.0, 25.0, -5.0, 44.0, 11.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="2.0" />
+   </children>
+</Pane>
